@@ -4,6 +4,7 @@
 char state[100], code_card[4], city_name[100];
 int population, number_of_tourist_attractions;
 float area, pib;
+
 // Second card
 char state_2[100], code_card_2[4], city_name_2[100];
 int population_2, number_of_tourist_attractions_2;
